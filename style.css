@@ -1,0 +1,6 @@
+/* importing the styles */
+@tailwind base;
+@tailwind components;
+@tailwind utilities; 
+
+
